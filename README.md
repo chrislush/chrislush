@@ -1,4 +1,4 @@
-## Hi there 👋
+## <p align="center">Hello! Christine typing 👋</p>
 
 <!--
 **chrislush/chrislush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
