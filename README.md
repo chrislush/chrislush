@@ -7,6 +7,12 @@
 <p align="center">
   <img width="400" src="./puzzle-parlour-thumbnail.png" />
   <img width="400" src="./mousetrap-thumbnail.png" />
+  <a href="https://github.com/chrislush/chrislush.github.io">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chrislush&repo=chrislush.github.io&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/chrislush/mousetrap">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chrislush&repo=mousetrap&theme=tokyonight" />
+  </a>
 </p>
 
 
