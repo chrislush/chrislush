@@ -1,4 +1,13 @@
-## <p align="center">Hello there! Christine typing 👋</p>
+## <p align="center">Hello there! Christine typing 👋😊</p>
+
+<br>
+
+## <p align="center">Recently completed projects</p>
+
+<p align="center">
+  <img width="400" src="./puzzle-parlour-thumbnail.png" />
+  <img width="400" src="./mousetrap-thumbnail.png" />
+</p>
 
 
 <!--
