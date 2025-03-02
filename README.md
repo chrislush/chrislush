@@ -1,8 +1,8 @@
-## <p align="center">Hello there! Christine typing 👋😊</p>
+## <p align="center">Hello? Ah, hello! Christine typing 👩‍💻</p>
 
 <br>
 
-## <p align="center">Recently completed projects</p>
+## <p align="center">Recent Projects</p>
 
 <p align="center">
   <img width="400" src="./puzzle-parlour-thumbnail.png" />
