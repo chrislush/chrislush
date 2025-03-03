@@ -19,6 +19,7 @@ Self-taught full stack developer with a budding penchant for game development. E
 <br/>
 
 ## <p align="center">About Me</p>
+Background in mathematics
 
 <br/>
 
