@@ -9,10 +9,10 @@ Self-taught full stack developer with a budding penchant for game development. E
   <img width="400" src="./puzzle-parlour-thumbnail.png" />
   <img width="400" src="./mousetrap-thumbnail.png" />
   <a href="https://github.com/chrislush/puzzleparlour">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chrislush&repo=puzzleparlour&theme=gruvbox_light" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chrislush&repo=puzzleparlour&theme=great-gatsby" />
   </a>
   <a href="https://github.com/chrislush/mousetrap">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chrislush&repo=mousetrap&theme=gruvbox_light" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chrislush&repo=mousetrap&theme=great-gatsby" />
   </a>
 </p>
 
