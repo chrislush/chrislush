@@ -1,8 +1,9 @@
-## <p align="center">Hello? Ah, hello! Christine typing 👩‍💻</p>
+## <p align="center">Hello? Ah, hi there! Christine typing 👩‍💻</p>
+Self-taught full stack developer with a budding penchant for game development. Experience using the classic Neapolitan trio (HTML/CSS/JavaScript), React, Node.js/Express and the three Cs (C, C++, C#). User-experience oriented.
 
-<br>
+<br/>
 
-## <p align="center">Recent Projects</p>
+## <p align="center">Recent Projects </p>
 
 <p align="center">
   <img width="400" src="./puzzle-parlour-thumbnail.png" />
@@ -15,18 +16,19 @@
   </a>
 </p>
 
+<br/>
+
+## <p align="center">About Me</p>
 
 <!--
-**chrislush/chrislush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+##
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ... Python!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
