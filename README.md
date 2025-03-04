@@ -17,7 +17,7 @@ Self-taught full-stack developer with a background in mathematics and budding pe
   <img width="400" src="./puzzle-parlour-thumbnail.png" />
   <img width="400" src="./mousetrap-thumbnail.png" />
   <a href="https://github.com/chrislush/puzzleparlour"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislush&repo=puzzleparlour&theme=moltack" /></a>
-  <a href="https://github.com/chrislush/mousetrap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislush&repo=mousetrap&theme=mol" /></a>
+  <a href="https://github.com/chrislush/mousetrap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislush&repo=mousetrap&theme=moltack" /></a>
 </div>
 
 <br/>
