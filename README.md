@@ -1,5 +1,5 @@
 ## <p align="center">Hello there! Christine typing 👩‍💻</p>
-Self-taught full stack developer with a background in mathematics and a budding penchant for game development. Experience using the classic Neapolitan trio (HTML/CSS/JavaScript), React, Node.js/Express and the three Cs (C, C++, C#). User experience oriented.
+Self-taught full-stack developer with a background in mathematics and budding penchant for front-end game development.
 
 <br/>
 
@@ -18,14 +18,12 @@ Self-taught full stack developer with a background in mathematics and a budding 
 
 <br/>
 
-## <p align="center">About Me</p>
-
-<br/>
+## <p align="center">Cheatsheet</p>
 
 - 🔭 I’m currently working on ... a digital version of the classic tabletop game Rummikub, with a twist 😏 
-- 🌱 On my TOLEARN list: Python, GDScript (Godot's built-in scripting language), Blender, MongoDB and Mongoose among many, many others. The limit does not exist!
+- 🌱 On my TOLEARN list: Python, GDScript (Godot's built-in scripting language), Blender, MongoDB and Mongoose among others, many others. The limit does not exist!
 - 👯 I’m looking to collaborate on ... 2D RPG projects of any and every variety 😁
 - 💬 Ask me about ... HTML Canvas, my favourite HTML5 feature!
 - 📫 You can reach me ... via LinkedIn or good ol' fashioned email.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i-recently-learned-that-this-variable-naming-convention-is-referred-to-as-kebab-case 😅 A revelation! Now petitioning for all variable naming conventions to be named after foodstuffs.
+- ⚡ Fun fact: i-recently-learned-that-this-variable-naming-convention-is-referred-to-as-kebab-case 😅 A revelation! Now petitioning for all variable naming conventions to be renamed after foodstuffs.
