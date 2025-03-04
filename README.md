@@ -1,4 +1,7 @@
 ## <p align="center">Hello there! Christine typing 👩‍💻</p>
+<div align="center"><a href="">Hello</a></div>
+
+<br/>
 Self-taught full-stack developer with a background in mathematics and budding penchant for front-end game development. A former teacher, software development had me at 'Hello World!', allowing me to marry my proclivity for puzzles and problem solving with a deep-seated love for devising engaging, accessible user experiences. I relished the opportunity to create compelling materials to help my students take ownership of their learning, and now channel this energy into building intuitive, user-centred software (gamifying features wherever possible, and appropriate, of course 😉).
 
 <br/>
