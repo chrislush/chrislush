@@ -11,13 +11,22 @@ Self-taught full-stack developer with a background in mathematics and budding pe
 
 <br/>
 
-## <p align="center">Recent Projects </p>
+## <p align="center">Recent Projects</p>
 
+### <p align="center">Solo Endevours</p>
 <div align="center">
   <img width="400" src="./puzzle-parlour-thumbnail.png" />
   <img width="400" src="./mousetrap-thumbnail.png" />
   <a href="https://github.com/chrislush/puzzleparlour"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislush&repo=puzzleparlour&theme=moltack" /></a>
   <a href="https://github.com/chrislush/mousetrap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislush&repo=mousetrap&theme=moltack" /></a>
+</div>
+
+### <p align="center">Group Projects</p>
+<div align="center">
+  <img width="400" src="./stonewaters-library-thumbnail.png" />
+</div>
+<div align="center">
+  <a href="https://github.com/fac-31/Pro0217-BookRecommender"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fac-31&repo=Pro0217-BookRecommender&theme=moltack" /></a>
 </div>
 
 <br/>
