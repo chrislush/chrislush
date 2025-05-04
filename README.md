@@ -1,9 +1,4 @@
 ## <p align="center">Hello there! Christine typing 👩‍💻</p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/christine-lush-97300b2b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge" />
-  </a>
-</div>
 
 <br/>
 
